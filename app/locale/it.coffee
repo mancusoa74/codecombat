@@ -1609,7 +1609,7 @@ module.exports = nativeDescription: "Italiano", englishDescription: "Italian", t
     candidate_who: "Chi"
 #    featured_developers: "Featured Developers"
     other_developers: "Altri Sviluppatori"
-#    inactive_developers: "Inactive Developers"
+    inactive_developers: "Sviluppatori Inattivi"
 
   admin:
     av_espionage: "Spionaggio" # Really not important to translate /admin controls.
